@@ -41,3 +41,5 @@
 const a = [1, "1", { nama: "Rizky" }];
 
 console.log(a[2].nama);
+
+console.log(a);

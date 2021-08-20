@@ -13,3 +13,5 @@ const d = { array: [1, 2, 3] };
 // console.log(b.umur);
 
 console.log(c);
+
+console.log(c);
